@@ -99,7 +99,3 @@ Este repositório não apenas documenta o aprendizado sobre o tema, mas também 
 * Capacidade de organização de conhecimento
 * Uso estratégico de inteligência artificial
 * Pensamento crítico e analítico
-
----
-
-Se quiser, posso personalizar esse README já preenchendo com base no conteúdo do link (resumos, glossário, etc.).
