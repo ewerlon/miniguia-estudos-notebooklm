@@ -2,16 +2,7 @@
 
 ## 🎯 Contexto e Objetivos
 
-Este repositório foi desenvolvido como parte de um estudo guiado utilizando o NotebookLM, com foco no tema:
-
-> **Assunto financeiro introdutório**
-
-O objetivo principal deste projeto é:
-
-* Consolidar conhecimentos sobre o tema escolhido
-* Explorar o uso de IA como ferramenta de apoio ao estudo
-* Desenvolver habilidades de curadoria, análise crítica e engenharia de prompts
-* Criar um material de revisão estruturado e reutilizável
+Este repositório foi desenvolvido como parte de um estudo guiado utilizando o NotebookLM, com foco no tema: **Assunto financeiro introdutório**
 
 ---
 
@@ -19,9 +10,9 @@ O objetivo principal deste projeto é:
 
 Abaixo estão as principais fontes utilizadas no NotebookLM:
 
-1. [Título da Fonte 1](LINK_AQUI)
-2. [Título da Fonte 2](LINK_AQUI)
-3. [Título da Fonte 3](LINK_AQUI)
+1. [Lições sobre o mercado financeiro](https://blog.ipog.edu.br/gestao-e-negocios/mercado-financeiro-2/)
+2. [Passos essenciais antes de começar a investir](https://www.em.com.br/emfoco/2025/08/14/thiago-nigro-educador-financeiro-4-passos-essenciais-antes-de-comecar-a-investir/)
+3. [Como começar a investir do zero?](https://blog.inter.co/como-comecar-a-investir-do-zero/?gad_campaignid=23704056232)
 4. [Título da Fonte 4](LINK_AQUI) *(opcional)*
 5. [Título da Fonte 5](LINK_AQUI) *(opcional)*
 
