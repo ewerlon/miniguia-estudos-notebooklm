@@ -4,7 +4,7 @@
 
 Este repositório foi desenvolvido como parte de um estudo guiado utilizando o NotebookLM, com foco no tema:
 
-> **[INSIRA AQUI O TEMA DO SEU CADERNO]**
+> **[Assunto financeiro introdutório]**
 
 O objetivo principal deste projeto é:
 
